@@ -1,0 +1,61 @@
+D:\ANTO\INVENTORY\bin\Debug\INVENTORY.exe
+D:\ANTO\INVENTORY\bin\Debug\INVENTORY.pdb
+D:\ANTO\INVENTORY\bin\Debug\INVENTORY.xml
+D:\ANTO\INVENTORY\obj\Debug\ResolveAssemblyReference.cache
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.FormLogin.resources
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.Resources.resources
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.vbproj.GenerateResource.Cache
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.exe
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.xml
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.pdb
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.MenuUtama.resources
+D:\ANTO\INVENTORY\obj\Debug\INVENTORY.Menu.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.exe
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.xml
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.pdb
+D:\SI5\INVENTORY\bin\Debug\INVENTORY.exe
+D:\SI5\INVENTORY\bin\Debug\INVENTORY.pdb
+D:\SI5\INVENTORY\bin\Debug\INVENTORY.xml
+D:\SI5\INVENTORY\obj\Debug\ResolveAssemblyReference.cache
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.FormBarang.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.FormLogin.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.MenuUtama.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.Resources.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.vbproj.GenerateResource.Cache
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.FormPenerimaan.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.FormLapBarang.resources
+D:\SI5\INVENTORY\obj\Debug\INVENTORY.FormLapPenerimaan.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.exe
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.xml
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.pdb
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\bin\Debug\INVENTORY.exe
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\bin\Debug\INVENTORY.pdb
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\bin\Debug\INVENTORY.xml
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\ResolveAssemblyReference.cache
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.FormBarang.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.FormLapBarang.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.FormLapPenerimaan.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.FormLogin.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.FormPenerimaan.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.MenuUtama.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.Resources.resources
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.vbproj.GenerateResource.Cache
+D:\Activities\CAMPUS\INSAN PEMBANGUNAN\MODULE\VB NET 1\APP\INVENTORY\obj\Debug\INVENTORY.FormPengeluaran.resources
+D:\INVENTORY\obj\Debug\INVENTORY.exe
+D:\INVENTORY\obj\Debug\INVENTORY.xml
+D:\INVENTORY\obj\Debug\INVENTORY.pdb
+D:\INVENTORY\bin\Debug\INVENTORY.exe
+D:\INVENTORY\bin\Debug\INVENTORY.pdb
+D:\INVENTORY\bin\Debug\INVENTORY.xml
+D:\INVENTORY\obj\Debug\ResolveAssemblyReference.cache
+D:\INVENTORY\obj\Debug\INVENTORY.FormBarang.resources
+D:\INVENTORY\obj\Debug\INVENTORY.FormLapBarang.resources
+D:\INVENTORY\obj\Debug\INVENTORY.FormLapPenerimaan.resources
+D:\INVENTORY\obj\Debug\INVENTORY.FormLogin.resources
+D:\INVENTORY\obj\Debug\INVENTORY.FormPenerimaan.resources
+D:\INVENTORY\obj\Debug\INVENTORY.FormPengeluaran.resources
+D:\INVENTORY\obj\Debug\INVENTORY.MenuUtama.resources
+D:\INVENTORY\obj\Debug\INVENTORY.Resources.resources
+D:\INVENTORY\obj\Debug\INVENTORY.vbproj.GenerateResource.Cache
+D:\INVENTORY\bin\Debug\INVENTORY.exe.config
+D:\INVENTORY\obj\Debug\INVENTORY.FormLapPengeluaran.resources
